@@ -1,6 +1,5 @@
+
 <h1 align="center" id="title">BookShelf App</h1>
-
-
 
 <h2>🚀 Demo</h2>
 
